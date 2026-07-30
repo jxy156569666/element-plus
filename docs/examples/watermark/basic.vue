@@ -20,7 +20,7 @@ watch(
 </script>
 
 <template>
-  <el-watermark :font="font">
+  <el-watermark :font="font" text="luminous">
     <div style="height: 500px" />
   </el-watermark>
 </template>
